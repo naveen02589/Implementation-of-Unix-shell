@@ -1,0 +1,5 @@
+	
+kjsrnvn: shellc.c
+	gcc shellc.c -lreadline -o kjsrnvn
+clean: 
+	rm *.o *.txt
